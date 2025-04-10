@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+python-dotenv
+streamlit
+requests
+pandas>=2.0.1
+PyPDF2>=3.0.0
+openpyxl>=3.1.0
+faiss-cpu>=1.7.0
